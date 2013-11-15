@@ -1,9 +1,9 @@
 <?php
-$file = fopen("coba2.csv","a");
+$file = fopen("Coba2.csv","r");
 
 while(! feof($file))
   {
-  fgetcsv($file)';
+  fgetcsv($file);
   }
 
 fclose($file);
