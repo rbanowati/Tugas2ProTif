@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Daftar_Komik>
+    <tabel_1>
+        <Judul>Detective Conan</Judul>
+        <Harga>Rp 21500</Harga>
+        <Asal>Jepang</Asal>
+    </tabel_1>
+    
+    <tabel_1>
+        <Judul>The Adventures of Tintin</Judul>
+        <Harga>Rp 30000</Harga>
+        <Asal>Perancis</Asal>
+    </tabel_1>
+</Daftar_Komik
