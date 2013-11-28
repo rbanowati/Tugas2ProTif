@@ -24,4 +24,5 @@ while ($data = mysql_fetch_array($hasil))
    echo "</".$namaTabel.">";
 }
 echo "</data>";
+
 ?>
