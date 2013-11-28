@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+
 <Daftar_Komik>
     <tabel_1>
         <Judul>Detective Conan</Judul>
@@ -12,5 +13,3 @@
         <Asal>Perancis</Asal>
     </tabel_1>
 </Daftar_Komik>
-
-
