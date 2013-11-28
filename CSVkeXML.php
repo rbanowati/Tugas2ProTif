@@ -12,3 +12,4 @@ if (($csvfile = fopen("test2.csv", "r")) !== FALSE) {
     }
 }
 echo "</data>";
+?>
